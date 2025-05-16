@@ -1,4 +1,3 @@
----
 **Journal**
 ---
 How to set up
