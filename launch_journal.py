@@ -2,7 +2,7 @@ import subprocess
 import customtkinter as ctk
 import bcrypt as bc
 
-with open("password", "r") as f:
+with open("password.txt", "r") as f:
     correct_password = f.read().strip().encode()
 
 window = ctk.CTk()
